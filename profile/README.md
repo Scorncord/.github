@@ -1,5 +1,5 @@
 # Scorncord, the Organization™
-👋 Hey there! welcome to Scorncord's Github. Scorncord is a fork of Vencord's organisation to add more features like compatibility with older operating systems like Windows 7.
+👋 Hey there! Welcome to Scorncord's Github. Scorncord is a fork of Vencord's organisation to add more features like compatibility with older operating systems like Windows 7.
 
 <!--
 
